@@ -15,7 +15,9 @@
       },
       "id": 1, 
       "text": {
-        "title": "Museo de los Pintores Oaxaqueños"
+        "title": "Museo de los Pintores Oaxaqueños",
+        "description": "esto es una descripcion",
+        "footnote": "Powered by Layar" 
       }
     },
   {
